@@ -43,9 +43,8 @@ In this project, we aim to build a robust and user-friendly blockchain app for e
 
 ### Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
-![Screenshot 3](/screenshots/screenshot3.png)
+![Screenshot 1](screenshot/imageOne.png)
+![Screenshot 2](screenshot/imageTow.png)
 
 ## Contributing
 
