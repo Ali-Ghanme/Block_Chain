@@ -41,6 +41,12 @@ In this project, we aim to build a robust and user-friendly blockchain app for e
 1. [Provide instructions on how to run and use the app]
 2. [Include screenshots or GIFs to showcase the app's functionality]
 
+### Screenshots
+
+![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 3](/screenshots/screenshot3.png)
+
 ## Contributing
 
 We welcome contributions from the community! If you'd like to contribute to the project, please follow these steps:
